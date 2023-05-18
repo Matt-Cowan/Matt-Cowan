@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matt!
+- 👀 I’m interested in SQL and IT in general.
+- 🌱 I’m currently learning to enchance my knowledge of SQL and looking to transfer into the IT industry
+- 💞️ I love trying out new programs and I'm really interested and excited as to where AI is going to take us
+- 📫 You can reach me at mattcowan999@gmail.com
